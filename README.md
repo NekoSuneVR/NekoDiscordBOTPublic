@@ -1,1 +1,2 @@
-# NekoDiscordBOTPublic
+# NEKOBOT
+my NEKO BOT
